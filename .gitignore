@@ -1,0 +1,6 @@
+# Ignore everything in the folder
+1_docker_terraform/terraform/*
+
+# But do NOT ignore these two specific files
+!1_docker_terraform/terraform//main.tf
+!1_docker_terraform/terraform//variable.tf
