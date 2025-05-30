@@ -1,5 +1,6 @@
 # Ignore everything in the folder
 1_docker_terraform/terraform/*
+3_data_warehouse/keys/*
 
 # But do NOT ignore these two specific files
 !1_docker_terraform/terraform//main.tf
